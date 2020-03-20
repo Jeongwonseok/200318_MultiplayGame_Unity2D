@@ -53,6 +53,38 @@ public class AuthManager : MonoBehaviour
 
     public void SignIn()
     {
+        // 준비x || 직전의 로그인 신호가 진행 중 || 이미 유저가 할당된 경우
+        if(!IsFirebaseReady || IsSignInOnProgress || User != null)
+        {
+            return;
+        }
 
+        IsSignInOnProgress = true;
+        signInButton.interactable = false;
+
+        // 종료될 시 실행될 체인 걸기
+        firebaseAuth.SignInWithEmailAndPasswordAsync(emailField.text, passwordField.text).ContinueWithOnMainThread(task => {
+                Debug.Log($"Sign in status : {task.Status}");
+
+                IsSignInOnProgress = false;
+                signInButton.interactable = true;
+
+                // 예외 처리 
+                if (task.IsFaulted)
+                {
+                    Debug.LogError(task.Exception);
+                }
+                else if (task.IsCanceled)
+                {
+                    Debug.LogError("Sign-in canceled");
+                }
+                else // 결과 확인
+                {
+                    User = task.Result;
+                    Debug.Log(User.Email);
+                    SceneManager.LoadScene("Lobby");
+                }
+            }
+        );
     }
 }

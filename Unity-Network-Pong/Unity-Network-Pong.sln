@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio for Mac
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{14F376C9-A92D-660F-6B3A-C58096F54BD1}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotonUnityNetworking.Demos", "PhotonUnityNetworking.Demos.csproj", "{2FB5D615-B713-CDBC-D0EC-0977694CCAC7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotonUnityNetworking.Utilities", "PhotonUnityNetworking.Utilities.csproj", "{32A19B6E-0F38-B5ED-06C3-6EFF3FB1E878}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{14F376C9-A92D-660F-6B3A-C58096F54BD1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotonChat", "PhotonChat.csproj", "{14AD25C7-C3B1-ABDA-B8EE-908B0B4B91B0}"
 EndProject
@@ -31,10 +31,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{14F376C9-A92D-660F-6B3A-C58096F54BD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{14F376C9-A92D-660F-6B3A-C58096F54BD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{14F376C9-A92D-660F-6B3A-C58096F54BD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{14F376C9-A92D-660F-6B3A-C58096F54BD1}.Release|Any CPU.Build.0 = Release|Any CPU
 		{2FB5D615-B713-CDBC-D0EC-0977694CCAC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{2FB5D615-B713-CDBC-D0EC-0977694CCAC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2FB5D615-B713-CDBC-D0EC-0977694CCAC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -43,6 +39,10 @@ Global
 		{32A19B6E-0F38-B5ED-06C3-6EFF3FB1E878}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32A19B6E-0F38-B5ED-06C3-6EFF3FB1E878}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32A19B6E-0F38-B5ED-06C3-6EFF3FB1E878}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14F376C9-A92D-660F-6B3A-C58096F54BD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14F376C9-A92D-660F-6B3A-C58096F54BD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14F376C9-A92D-660F-6B3A-C58096F54BD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14F376C9-A92D-660F-6B3A-C58096F54BD1}.Release|Any CPU.Build.0 = Release|Any CPU
 		{14AD25C7-C3B1-ABDA-B8EE-908B0B4B91B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{14AD25C7-C3B1-ABDA-B8EE-908B0B4B91B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14AD25C7-C3B1-ABDA-B8EE-908B0B4B91B0}.Release|Any CPU.ActiveCfg = Release|Any CPU

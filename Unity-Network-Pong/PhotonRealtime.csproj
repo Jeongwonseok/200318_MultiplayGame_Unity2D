@@ -276,41 +276,41 @@
     <Reference Include="SyntaxTree.VisualStudio.Unity.Bridge">
       <HintPath>/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/MonoDevelop.Unity/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
+    <Reference Include="Google.IOSResolver_v1.2.135.0">
+      <HintPath>/Users/jws/Desktop/200318_MultiplayGame_Unity2D/Unity-Network-Pong/Assets/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.135.0.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.VersionHandlerImpl_v1.2.135.0">
+      <HintPath>/Users/jws/Desktop/200318_MultiplayGame_Unity2D/Unity-Network-Pong/Assets/PlayServicesResolver/Editor/Google.VersionHandlerImpl_v1.2.135.0.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.JarResolver_v1.2.135.0">
+      <HintPath>/Users/jws/Desktop/200318_MultiplayGame_Unity2D/Unity-Network-Pong/Assets/PlayServicesResolver/Editor/Google.JarResolver_v1.2.135.0.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.VersionHandler">
+      <HintPath>/Users/jws/Desktop/200318_MultiplayGame_Unity2D/Unity-Network-Pong/Assets/PlayServicesResolver/Editor/Google.VersionHandler.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Compat">
+      <HintPath>/Users/jws/Desktop/200318_MultiplayGame_Unity2D/Unity-Network-Pong/Assets/Parse/Plugins/dotNet45/Unity.Compat.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Tasks">
+      <HintPath>/Users/jws/Desktop/200318_MultiplayGame_Unity2D/Unity-Network-Pong/Assets/Parse/Plugins/dotNet45/Unity.Tasks.dll</HintPath>
+    </Reference>
+    <Reference Include="Firebase.Auth">
+      <HintPath>/Users/jws/Desktop/200318_MultiplayGame_Unity2D/Unity-Network-Pong/Assets/Firebase/Plugins/Firebase.Auth.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.MiniJson">
+      <HintPath>/Users/jws/Desktop/200318_MultiplayGame_Unity2D/Unity-Network-Pong/Assets/Firebase/Plugins/Google.MiniJson.dll</HintPath>
+    </Reference>
     <Reference Include="Firebase.App">
       <HintPath>/Users/jws/Desktop/200318_MultiplayGame_Unity2D/Unity-Network-Pong/Assets/Firebase/Plugins/Firebase.App.dll</HintPath>
     </Reference>
     <Reference Include="Firebase.Platform">
       <HintPath>/Users/jws/Desktop/200318_MultiplayGame_Unity2D/Unity-Network-Pong/Assets/Firebase/Plugins/Firebase.Platform.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.Tasks">
-      <HintPath>/Users/jws/Desktop/200318_MultiplayGame_Unity2D/Unity-Network-Pong/Assets/Parse/Plugins/dotNet45/Unity.Tasks.dll</HintPath>
-    </Reference>
-    <Reference Include="Google.MiniJson">
-      <HintPath>/Users/jws/Desktop/200318_MultiplayGame_Unity2D/Unity-Network-Pong/Assets/Firebase/Plugins/Google.MiniJson.dll</HintPath>
-    </Reference>
-    <Reference Include="Google.VersionHandler">
-      <HintPath>/Users/jws/Desktop/200318_MultiplayGame_Unity2D/Unity-Network-Pong/Assets/PlayServicesResolver/Editor/Google.VersionHandler.dll</HintPath>
-    </Reference>
-    <Reference Include="Firebase.Editor">
-      <HintPath>/Users/jws/Desktop/200318_MultiplayGame_Unity2D/Unity-Network-Pong/Assets/Firebase/Editor/Firebase.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Google.JarResolver_v1.2.135.0">
-      <HintPath>/Users/jws/Desktop/200318_MultiplayGame_Unity2D/Unity-Network-Pong/Assets/PlayServicesResolver/Editor/Google.JarResolver_v1.2.135.0.dll</HintPath>
-    </Reference>
-    <Reference Include="Firebase.Auth">
-      <HintPath>/Users/jws/Desktop/200318_MultiplayGame_Unity2D/Unity-Network-Pong/Assets/Firebase/Plugins/Firebase.Auth.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Compat">
-      <HintPath>/Users/jws/Desktop/200318_MultiplayGame_Unity2D/Unity-Network-Pong/Assets/Parse/Plugins/dotNet45/Unity.Compat.dll</HintPath>
-    </Reference>
-    <Reference Include="Google.IOSResolver_v1.2.135.0">
-      <HintPath>/Users/jws/Desktop/200318_MultiplayGame_Unity2D/Unity-Network-Pong/Assets/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.135.0.dll</HintPath>
-    </Reference>
     <Reference Include="Firebase.TaskExtension">
       <HintPath>/Users/jws/Desktop/200318_MultiplayGame_Unity2D/Unity-Network-Pong/Assets/Firebase/Plugins/Firebase.TaskExtension.dll</HintPath>
     </Reference>
-    <Reference Include="Google.VersionHandlerImpl_v1.2.135.0">
-      <HintPath>/Users/jws/Desktop/200318_MultiplayGame_Unity2D/Unity-Network-Pong/Assets/PlayServicesResolver/Editor/Google.VersionHandlerImpl_v1.2.135.0.dll</HintPath>
+    <Reference Include="Firebase.Editor">
+      <HintPath>/Users/jws/Desktop/200318_MultiplayGame_Unity2D/Unity-Network-Pong/Assets/Firebase/Editor/Firebase.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Photon3Unity3D">
       <HintPath>/Users/jws/Desktop/200318_MultiplayGame_Unity2D/Unity-Network-Pong/Assets/Photon/PhotonLibs/Photon3Unity3D.dll</HintPath>

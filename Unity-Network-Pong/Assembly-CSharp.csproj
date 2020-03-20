@@ -295,23 +295,23 @@
     <Reference Include="UnityEngine.XRModule">
       <HintPath>/Applications/Unity/Hub/Editor/2019.2.9f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.XRModule.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.Compat">
+      <HintPath>/Users/jws/Desktop/200318_MultiplayGame_Unity2D/Unity-Network-Pong/Assets/Parse/Plugins/dotNet45/Unity.Compat.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Tasks">
+      <HintPath>/Users/jws/Desktop/200318_MultiplayGame_Unity2D/Unity-Network-Pong/Assets/Parse/Plugins/dotNet45/Unity.Tasks.dll</HintPath>
+    </Reference>
+    <Reference Include="Firebase.Auth">
+      <HintPath>/Users/jws/Desktop/200318_MultiplayGame_Unity2D/Unity-Network-Pong/Assets/Firebase/Plugins/Firebase.Auth.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.MiniJson">
+      <HintPath>/Users/jws/Desktop/200318_MultiplayGame_Unity2D/Unity-Network-Pong/Assets/Firebase/Plugins/Google.MiniJson.dll</HintPath>
+    </Reference>
     <Reference Include="Firebase.App">
       <HintPath>/Users/jws/Desktop/200318_MultiplayGame_Unity2D/Unity-Network-Pong/Assets/Firebase/Plugins/Firebase.App.dll</HintPath>
     </Reference>
     <Reference Include="Firebase.Platform">
       <HintPath>/Users/jws/Desktop/200318_MultiplayGame_Unity2D/Unity-Network-Pong/Assets/Firebase/Plugins/Firebase.Platform.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Tasks">
-      <HintPath>/Users/jws/Desktop/200318_MultiplayGame_Unity2D/Unity-Network-Pong/Assets/Parse/Plugins/dotNet45/Unity.Tasks.dll</HintPath>
-    </Reference>
-    <Reference Include="Google.MiniJson">
-      <HintPath>/Users/jws/Desktop/200318_MultiplayGame_Unity2D/Unity-Network-Pong/Assets/Firebase/Plugins/Google.MiniJson.dll</HintPath>
-    </Reference>
-    <Reference Include="Firebase.Auth">
-      <HintPath>/Users/jws/Desktop/200318_MultiplayGame_Unity2D/Unity-Network-Pong/Assets/Firebase/Plugins/Firebase.Auth.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Compat">
-      <HintPath>/Users/jws/Desktop/200318_MultiplayGame_Unity2D/Unity-Network-Pong/Assets/Parse/Plugins/dotNet45/Unity.Compat.dll</HintPath>
     </Reference>
     <Reference Include="Firebase.TaskExtension">
       <HintPath>/Users/jws/Desktop/200318_MultiplayGame_Unity2D/Unity-Network-Pong/Assets/Firebase/Plugins/Firebase.TaskExtension.dll</HintPath>
