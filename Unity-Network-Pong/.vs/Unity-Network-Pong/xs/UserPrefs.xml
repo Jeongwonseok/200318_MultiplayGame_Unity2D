@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{14F376C9-A92D-660F-6B3A-C58096F54BD1}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/AuthManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/AuthManager.cs" Line="45" Column="63" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Unity-Network-Pong" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="AuthManager.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8c67a0bf-7d10-4680-8490-19b491c620cd" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
