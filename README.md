@@ -20,22 +20,22 @@ Ball Battle
 
 ****
 # 5. 개발 범위
-* **Game Manager (게임 매니저)**
+* **Game Manager (게임 매니저)**<br>
 : Photon Pun의 이벤트 감지, 플레이어 및 공 생성, 스코어 계산, 게임 종료 기능을 정의한다.
 
-* **Auth Manager (인증 매니저)**
+* **Auth Manager (인증 매니저)**<br>
 : FirebaseApp, FirebaseAuth 클래스를 이용해 로그인 기능을 정의한다.
 
-* **Lobby Manager (로비 매니저)**
+* **Lobby Manager (로비 매니저)**<br>
 : 로비 시스템과 매치 메이킹 시스템을 관할하는 기능을 정의한다.
 
-* **Player Setting (플레이어 준비)**
+* **Player Setting (플레이어 준비)**<br>
 : 플레이어의 동작을 정의한다.
 
-* **Ball Setting (공 준비)**
+* **Ball Setting (공 준비)**<br>
 : 공의 이동, 입사각, 반사각, 충돌, 속도를 정의한다.
 
-* **Key Mapping (키 매핑)**
+* **Key Mapping (키 매핑)**<br>
 : 입력 버튼에 따른 상태를 정의한다.
 
 ****
