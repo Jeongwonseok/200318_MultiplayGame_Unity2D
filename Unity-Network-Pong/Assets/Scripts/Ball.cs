@@ -12,7 +12,14 @@ public class Ball : MonoBehaviourPun
     private Vector2 direction = Vector2.right; // 공이 움직이는 방향
     private readonly float speed = 10f; // 속도
     private readonly float randomRefectionIntensity = 0.1f; // 입사각 반사각이 조금씩 랜덤하게 달라지게 >> 게임적으로 재밌게 구현
-    
+
+    AudioSource audio;
+
+    void Start()
+    {
+        audio = GetComponent<AudioSource>();
+    }
+
     private void FixedUpdate()
     {
         // 현재 스크립트를 실행하는 측이 호스트가 아니면 리턴
@@ -28,6 +35,8 @@ public class Ball : MonoBehaviourPun
         // 해당 방향으로 거리만큼 이동했는데 콜라이더에 충돌했다면
         if(hit.collider != null)
         {
+            audio.Play();
+
             var goalPost = hit.collider.GetComponent<Goalpost>();
 
             // 골 포스트에 도달했는지 확인 & 누가 득점하는지 조건

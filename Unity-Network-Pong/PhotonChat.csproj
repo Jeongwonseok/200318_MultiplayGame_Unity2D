@@ -74,14 +74,14 @@
     <Compile Include="Assets\Photon\PhotonChat\Code\ChatState.cs" />
     <Compile Include="Assets\Photon\PhotonChat\Code\ChatUserStatus.cs" />
     <Compile Include="Assets\Photon\PhotonChat\Code\IChatClientListener.cs" />
+    <Reference Include="UnityEngine.UI">
+      <HintPath>/Users/jws/Desktop/200318_MultiplayGame_Unity2D/Unity-Network-Pong/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEditor.UI">
       <HintPath>/Users/jws/Desktop/200318_MultiplayGame_Unity2D/Unity-Network-Pong/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Tilemap.Editor">
       <HintPath>/Users/jws/Desktop/200318_MultiplayGame_Unity2D/Unity-Network-Pong/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine.UI">
-      <HintPath>/Users/jws/Desktop/200318_MultiplayGame_Unity2D/Unity-Network-Pong/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity/Hub/Editor/2019.2.9f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>

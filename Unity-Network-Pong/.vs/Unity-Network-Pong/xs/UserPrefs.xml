@@ -1,14 +1,14 @@
 ﻿<Properties StartupConfiguration="{14F376C9-A92D-660F-6B3A-C58096F54BD1}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/LobbyManager.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/AuthManager.cs">
     <Files>
       <File FileName="Assets/Scripts/AuthManager.cs" Line="20" Column="36" />
-      <File FileName="Assets/Scripts/PlayerNameText.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/LobbyManager.cs" Line="8" Column="20" />
-      <File FileName="Assets/Scripts/InputButton.cs" Line="27" Column="37" />
-      <File FileName="Assets/Scripts/Goalpost.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/Ball.cs" Line="13" Column="46" />
-      <File FileName="Assets/Scripts/Player.cs" Line="10" Column="1" />
-      <File FileName="Assets/Scripts/GameManager.cs" Line="75" Column="1" />
+      <File FileName="Assets/Scripts/PlayerNameText.cs" />
+      <File FileName="Assets/Scripts/LobbyManager.cs" />
+      <File FileName="Assets/Scripts/InputButton.cs" />
+      <File FileName="Assets/Scripts/Goalpost.cs" />
+      <File FileName="Assets/Scripts/Ball.cs" Line="38" Column="26" />
+      <File FileName="Assets/Scripts/Player.cs" />
+      <File FileName="Assets/Scripts/GameManager.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -16,7 +16,7 @@
           <Node name="Unity-Network-Pong" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
-                <Node name="LobbyManager.cs" selected="True" />
+                <Node name="AuthManager.cs" selected="True" />
               </Node>
             </Node>
           </Node>
@@ -26,7 +26,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a01926bf-d8b7-4f1e-a4f3-7c3273ee34e7" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="58ceb118-367c-4408-916d-a6909808ec45" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
