@@ -63,14 +63,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Photon\PhotonUnityNetworking\Demos\DemoHub\Editor\PunStartup.cs" />
-    <Reference Include="UnityEngine.UI">
-      <HintPath>/Users/jws/Desktop/200318_MultiplayGame_Unity2D/Unity-Network-Pong/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
-    </Reference>
     <Reference Include="UnityEditor.UI">
       <HintPath>/Users/jws/Desktop/200318_MultiplayGame_Unity2D/Unity-Network-Pong/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Tilemap.Editor">
       <HintPath>/Users/jws/Desktop/200318_MultiplayGame_Unity2D/Unity-Network-Pong/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>/Users/jws/Desktop/200318_MultiplayGame_Unity2D/Unity-Network-Pong/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.TestRunner">
       <HintPath>/Users/jws/Desktop/200318_MultiplayGame_Unity2D/Unity-Network-Pong/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>

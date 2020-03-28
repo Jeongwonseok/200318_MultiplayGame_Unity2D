@@ -50,4 +50,5 @@ Ball Battle
 ![ref1](https://github.com/Jeongwonseok/Portfolio_JWS/blob/master/image/pong/remote.png)
 
 ## 6.2. 참고 URL
-* 레트로 [네트워크 게임 만들기] 강좌 : https://www.youtube.com/watch?v=-QsfDgvcheQ&list=PLctzObGsrjfwF7kkoraWb235U8Z602gx1&index=1
+* 게임 플레이 영상 : https://www.youtube.com/watch?v=JR1QpcBA93c&t=6s
+* 참고 URL : https://www.youtube.com/watch?v=-QsfDgvcheQ&list=PLctzObGsrjfwF7kkoraWb235U8Z602gx1&index=1
